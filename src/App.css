@@ -1,0 +1,43 @@
+#Main{
+  height:550px;
+  width:400px;
+  border: 1px solid black;
+  border-radius: 10px;
+  margin-left: 550px;
+  margin-top: 90px;
+  background-color:black;
+  box-shadow: 10px 10px 10px black;
+}
+#Text-box{
+  height:80px;
+  width:90%;
+  margin-top: 20px;
+  margin-left: 15px;
+  border: 1px solid black;
+  border-radius: 10px;
+  background-color:azure;
+  opacity: 0.7;
+  font-size: 30px;
+}
+#Main button{
+  height:65px;
+  width:70px;
+  margin-top: 20px;
+  margin-left: 23px;
+  border: 1px solid black;
+  border-radius: 10px;
+  font-size: 20px;
+}
+#Main button:hover{
+  background-color: black;
+  color:white;
+}
+#Main .equal{
+  width:160px;
+}
+/* #Main .equal:hover{
+  background-color: chocolate;
+} */
+#Main .Button-Main:hover{
+  background-color:chocolate;
+}
